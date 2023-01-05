@@ -1,0 +1,80 @@
+{
+    "RTL4":{
+		"id":"RTL4",
+		"assetid":"https:\/\/api.videoland.com\/watch\/playout\/content\/rtl4-livestream?device=web&format=dash&drm=widevine",
+		"name":"RTL 4",
+		"icon":"https:\/\/staticqbr-nl-prod.prod.cdn.dmdsdp.com\/image-service\/ImagesEPG\/EventImages\/rtl4_v6.png?style=content-station-logo-xlarge",
+		"description":"",
+		"channelno":"4",
+		"erotica":"0",
+		"minimal":"1",
+		"replay":"0",
+		"regional":"0",
+		"home_only":"0"
+	},
+	"RTL5":{
+		"id":"RTL5",
+		"assetid":"https:\/\/api.videoland.com\/watch\/playout\/content\/rtl5-livestream?device=web&format=dash&drm=widevine",
+		"name":"RTL 5",
+		"icon":"https:\/\/staticqbr-nl-prod.prod.cdn.dmdsdp.com\/image-service\/ImagesEPG\/EventImages\/rtl5_2017.png?style=content-station-logo-xlarge",
+		"description":"",
+		"channelno":"5",
+		"erotica":"0",
+		"minimal":"1",
+		"replay":"0",
+		"regional":"0",
+		"home_only":"0"
+	},
+	"RTL7":{
+		"id":"RTL7",
+		"assetid":"https:\/\/api.videoland.com\/watch\/playout\/content\/rtl7-livestream?device=web&format=dash&drm=widevine",
+		"name":"RTL 7",
+		"icon":"https:\/\/staticqbr-nl-prod.prod.cdn.dmdsdp.com\/image-service\/ImagesEPG\/EventImages\/rtl7_2017.png?style=content-station-logo-xlarge",
+		"description":"",
+		"channelno":"7",
+		"erotica":"0",
+		"minimal":"1",
+		"replay":"0",
+		"regional":"0",
+		"home_only":"0"
+	},
+	"RTL8":{
+		"id":"RTL8",
+		"assetid":"https:\/\/api.videoland.com\/watch\/playout\/content\/rtl8-livestream?device=web&format=dash&drm=widevine",
+		"name":"RTL 8",
+		"icon":"https:\/\/staticqbr-nl-prod.prod.cdn.dmdsdp.com\/image-service\/ImagesEPG\/EventImages\/rtl8_2017.png?style=content-station-logo-xlarge",
+		"description":"",
+		"channelno":"10",
+		"erotica":"0",
+		"minimal":"1",
+		"replay":"0",
+		"regional":"0",
+		"home_only":"0"
+	},
+    "BB1":{
+		"id":"BB1",
+		"assetid":"https:\/\/api.videoland.com\/watch\/playout\/content\/bb-livestream-1?device=web&format=dash&drm=widevine",
+		"name":"Big Brother Stream 1",
+		"icon":"https:\/\/posters-videoland.akamaized.net\/114a\/Big%20Brother%20Left-20201111160410.jpg?f=277x415",
+		"description":"",
+		"channelno":"10",
+		"erotica":"0",
+		"minimal":"1",
+		"replay":"0",
+		"regional":"0",
+		"home_only":"0"
+	},
+    "BB2":{
+		"id":"BB2",
+		"assetid":"https:\/\/api.videoland.com\/watch\/playout\/content\/bb-livestream-2?device=web&format=dash&drm=widevine",
+		"name":"Big Brother Stream 2",
+		"icon":"https:\/\/posters-videoland.akamaized.net\/114a\/Big%20Brother%20Right-20201111160410.jpg?f=277x415",
+		"description":"",
+		"channelno":"11",
+		"erotica":"0",
+		"minimal":"1",
+		"replay":"0",
+		"regional":"0",
+		"home_only":"0"
+	}
+}
